@@ -1094,8 +1094,8 @@ body span {
   width: 100%;
   background-image: url("/images/theme/welcome-image.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background-size: background-size;
+  background-position: background-size;
   background-attachment: fixed;
   position: relative;
   display: flex;
